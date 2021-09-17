@@ -1,4 +1,4 @@
-{
+export const test = {
     "id": 100,
     "name": "Simple Chart",
     "description": "A chart that displays Dimensions and Series on the X and Y axis",
