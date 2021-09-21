@@ -1,6 +1,6 @@
 {
     "id": 100,
-    "name": "Simple Chart",
+    "name": "Simple Chart 2",
     "description": "A chart that displays Dimensions and Series on the X and Y axis",
     "image": "/assets/images/chart-types/vertical_grid.svg",
     "min_rows": 3,
