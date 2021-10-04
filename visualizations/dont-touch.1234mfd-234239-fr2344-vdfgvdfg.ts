@@ -7,7 +7,7 @@
     "min_cols": 8,
     "color": "#D1DEC0",
     "show_data": true,
-    "viz_control_type": 2,
+    "viz_control_type": 3,
     "articleId": "360016116918",
     "model": {
     "series": [],
